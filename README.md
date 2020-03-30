@@ -1,4 +1,4 @@
-#Dancing Script
+# Dancing Script
 by Pablo Impallari
 
 Dancing Script is a lively casual script where the letters bounce and change size slightly. Caps are big, and goes below the baseline.
