@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb.case" format="2">
+  <outline>
+    <component base="macroncomb.case" xOffset="-40" yOffset="-434"/>
+  </outline>
+</glyph>

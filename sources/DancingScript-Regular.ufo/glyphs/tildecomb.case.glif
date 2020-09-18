@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="119" y="373" type="curve" smooth="yes"/>
+      <point x="148" y="373"/>
+      <point x="176" y="383"/>
+      <point x="201" y="414" type="curve"/>
+      <point x="190" y="409"/>
+      <point x="178" y="406"/>
+      <point x="167" y="406" type="curve" smooth="yes"/>
+      <point x="95" y="406"/>
+      <point x="32" y="454"/>
+      <point x="-23" y="454" type="curve" smooth="yes"/>
+      <point x="-54" y="454"/>
+      <point x="-83" y="441"/>
+      <point x="-110" y="404" type="curve"/>
+      <point x="-93" y="415"/>
+      <point x="-74" y="419"/>
+      <point x="-56" y="419" type="curve" smooth="yes"/>
+      <point x="5" y="419"/>
+      <point x="64" y="373"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>390</integer>
+            <integer>33</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>429</integer>
+            <integer>38</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

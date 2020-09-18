@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave" format="2">
+  <advance width="364"/>
+  <unicode hex="0211"/>
+  <guideline x="265" y="577" angle="0"/>
+  <outline>
+    <component base="r"/>
+    <component base="dblgravecomb" xOffset="269" yOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

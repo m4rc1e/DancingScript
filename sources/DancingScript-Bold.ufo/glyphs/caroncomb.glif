@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <component base="caroncomb.case" xOffset="20" yOffset="38"/>
+  </outline>
+</glyph>

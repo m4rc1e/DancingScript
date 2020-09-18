@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b_rcommaaccent" format="2">
+  <advance width="742"/>
+  <outline>
+    <component base="b_r"/>
+    <component base="commaaccentcomb" xOffset="470" yOffset="-3"/>
+  </outline>
+</glyph>

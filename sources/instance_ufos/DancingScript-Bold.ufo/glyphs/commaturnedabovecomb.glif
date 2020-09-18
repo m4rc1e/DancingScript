@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="25" y="385" type="curve" smooth="yes"/>
+      <point x="33" y="385"/>
+      <point x="39" y="387"/>
+      <point x="44" y="391" type="curve"/>
+      <point x="60" y="429"/>
+      <point x="84" y="476"/>
+      <point x="108" y="511" type="curve"/>
+      <point x="102" y="516"/>
+      <point x="96" y="519"/>
+      <point x="87" y="519" type="curve" smooth="yes"/>
+      <point x="49" y="519"/>
+      <point x="-5" y="457"/>
+      <point x="-5" y="418" type="curve" smooth="yes"/>
+      <point x="-5" y="396"/>
+      <point x="11" y="385"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>390</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>534</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucircumflex.salt" format="2">
+  <advance width="734"/>
+  <outline>
+    <component base="U.salt"/>
+    <component base="circumflexcomb.case" xOffset="426" yOffset="388"/>
+  </outline>
+</glyph>

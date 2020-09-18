@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="324"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="195" y="41" type="curve" smooth="yes"/>
+      <point x="211" y="41"/>
+      <point x="228" y="55"/>
+      <point x="239" y="67" type="curve"/>
+      <point x="144" y="101"/>
+      <point x="115" y="119"/>
+      <point x="76" y="147" type="curve"/>
+      <point x="145" y="182"/>
+      <point x="235" y="233"/>
+      <point x="235" y="287" type="curve" smooth="yes"/>
+      <point x="235" y="294"/>
+      <point x="231" y="309"/>
+      <point x="221" y="321" type="curve"/>
+      <point x="181" y="267"/>
+      <point x="98" y="187"/>
+      <point x="25" y="158" type="curve"/>
+      <point x="38" y="116"/>
+      <point x="145" y="41"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>321</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>41</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

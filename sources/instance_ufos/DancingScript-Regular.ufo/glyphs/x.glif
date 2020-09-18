@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="418"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="44" y="-59" type="curve" smooth="yes"/>
+      <point x="48" y="-59"/>
+      <point x="52" y="-57"/>
+      <point x="56" y="-52" type="curve" smooth="yes"/>
+      <point x="80" y="-21"/>
+      <point x="131" y="44"/>
+      <point x="187" y="111" type="curve"/>
+      <point x="196" y="40"/>
+      <point x="213" y="-26"/>
+      <point x="272" y="-26" type="curve" smooth="yes"/>
+      <point x="342" y="-26"/>
+      <point x="419" y="65"/>
+      <point x="448" y="151" type="curve"/>
+      <point x="438" y="161" type="line"/>
+      <point x="411" y="102"/>
+      <point x="346" y="10"/>
+      <point x="297" y="10" type="curve" smooth="yes"/>
+      <point x="248" y="10"/>
+      <point x="251" y="96"/>
+      <point x="243" y="177" type="curve"/>
+      <point x="310" y="255"/>
+      <point x="375" y="321"/>
+      <point x="398" y="321" type="curve"/>
+      <point x="398" y="328"/>
+      <point x="379" y="332"/>
+      <point x="373" y="332" type="curve" smooth="yes"/>
+      <point x="355" y="332"/>
+      <point x="299" y="281"/>
+      <point x="237" y="216" type="curve"/>
+      <point x="227" y="269"/>
+      <point x="206" y="311"/>
+      <point x="154" y="311" type="curve" smooth="yes"/>
+      <point x="68" y="311"/>
+      <point x="47" y="216"/>
+      <point x="10" y="145" type="curve"/>
+      <point x="19" y="129" type="line"/>
+      <point x="61" y="203"/>
+      <point x="89" y="272"/>
+      <point x="138" y="272" type="curve" smooth="yes"/>
+      <point x="169" y="272"/>
+      <point x="175" y="218"/>
+      <point x="182" y="156" type="curve"/>
+      <point x="104" y="69"/>
+      <point x="34" y="-21"/>
+      <point x="34" y="-44" type="curve" smooth="yes"/>
+      <point x="34" y="-54"/>
+      <point x="38" y="-59"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-26</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>272</integer>
+            <integer>39</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>332</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-59</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>321</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
